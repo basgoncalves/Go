@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "basproject-342013",
+  "private_key_id": "27e290a0c5522a2b50050bee9ad8d4b9c770d107",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG1WKkuEpSXpBo\nK51FfL7hWkzAmg5xGyP37HqIu/wtp8q92xHAqvOwo4ZnJopxfKjApOWkKT26U4Je\nRt0Tsx4+91jYgcNV40Azy7t4p56YbtjzY9TOFgbc7Cv497Uk4xk5yAepumdBc0wM\n4Q+eOr4L9rREbezXDkMEsNoaeq0QWAjaXhtc0kAeaOrlqoW++JDkToxyHgQER7Ke\n2Kr+4xn4bRz2oXGIz9MgVoMR1bqmZsvZcHMOKjUeZkipfyjgSEYO61FnL+bO2gf5\nBRhvp3CUBdP2nZibjjOI4LUQq9kfFgBvBACuErwEbm+D/h6zrKoFpB/givvB4Hrj\nhnIB0OmbAgMBAAECggEAU8NnWA9POB4gZdIh4jkoTNV2yhjchqexYmucP2g6V519\nWrgkZW9fVAW/xErHPgIPMYEGQT8igxFVNZRS5E6sKkiXhDY+bTtcO7XTV4P92yev\ne/GNn/hFkeJor+ziwhRt9xqep9EgWMFSw4Y4xybmEzIuRTmt8fdPInXCnC8cI2rE\naSb0TKTftikNUHfimAWyS4KToUCXl/5dybB3J1xYdf852PjS+aTntRzEvxQmVvq9\nqcJtUsblrg6jkPi9mbkRs2R02rxem4xyydxBg/9ENefzvMjxPlUJ+syDDOeuVqbe\nUnGyLd0PqT/7G5lmjz8fEoxbcC4ZrrHE5WPA8g9i2QKBgQDwyURD9UYYNvuHonHS\nOZT3Nkg2sO/d9Tu/tjN9B68Ri1foto++pXpt0NKJzSg6/YfAki7ekDFJuNRuLSEp\n48IgY87zYiZUjZZfcnzsWH49TQc5rJjVBp5Noi/g4akTERbvDGbGgDUl7KBqPg+r\nmt69vAVPuVSw3NU+XysqrJ9+7wKBgQDTZYgOuhtWBjkRnWSkbTHhDAwlvnh+5qEA\n9LJpon7tYCHcvtDW2eB8oWBoBLyUtOfwhePV/8+URjeNu6Xl0Sas2tWGOQZ6/cxZ\nFiaYjlJgeBcOobEI1ZcrC+VlJx0AuhkrdySY/i9arEbaue7WaosCxqwjOBUuq+5u\nWFgROvyAFQKBgQCuVWrBsWIwwg5XY7v5M4uxeXHLd0wUbiv2YBrjWZ7dmv/pE9T7\neaAsxlbJQurv2wRg3vZkWg31jIbxxmcOh0LUZK8/9D5AVcscDC56iI/OHmkuztJQ\n2lvfZaA4t+nMTkFGjroS2lygurRid9CstJK02N8Xm92/uAQFBq6gVR+drQKBgCVz\n2I4bZNpx0cyQIROMkQi5FLHfNAPvoljEAZP7iRdPL9CnMeLOyRnrkWP8atjB0FHp\ntrrkToeLhS4kL7kuu/Zl8uyLz90ceAbUiNQAaxHSVOtvtCjHhrfGrMamDlphnjH4\nMtC0P/mFiiwYQvtT9vrv7fFzbzVMmrqMBlZPKAsdAoGASDJKokLp0CNXu+wEFyn8\nhJBgwanqD5S56R4zl1chPPxONhQPkLZ2etOZ8rxGRbc9sMe3VqpjGPSUWdfizxpa\nei76psQWZJQACeFhSmblSpscp38t7Ka9cIJho5r0EEd/fvept7sLR0ZHi2zEvX7O\nTqZJHy//+uiwD7wBiGkUqPQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neuromechanics@basproject-342013.iam.gserviceaccount.com",
+  "client_id": "112924151878514881101",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuromechanics%40basproject-342013.iam.gserviceaccount.com"
+}
